@@ -53,7 +53,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise) ✅
     - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ✅
 
-- [Standardization](/topics/standardization.md) (not in 5.0 list antmore) ❌
+- [Standardization](/topics/standardization.md) (not in 5.0 list anymore) ❌
     - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule) ❌
     - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs) ❌
     - [Naming conventions](/topics/standardization.md#naming-conventions) ❌
